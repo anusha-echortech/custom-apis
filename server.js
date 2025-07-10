@@ -7,7 +7,6 @@ app.use(express.json());
 
 const dbFile = './db.json';
 
-
 function readDB() {
   const data = fs.readFileSync(dbFile);
   return JSON.parse(data);
