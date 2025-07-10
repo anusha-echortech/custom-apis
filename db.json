@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Updated Post",
+      "author": "typecode"
+    },
+    {
+      "id": 2,
+      "title": "Learning mock APIs",
+      "author": "anusha"
+    },
+    {
+      "id": 3,
+      "title": "Updated Posts",
+      "author": "Anusha Updated"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "This is a comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Another comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Anusha"
+  }
+}
