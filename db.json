@@ -30,6 +30,7 @@
   ],
   "profile": {
     "name": "Anusha"
+<<<<<<< HEAD
   },
   "abcd": [
     {
@@ -50,4 +51,7 @@
       "author": "Anusha"
     }
   ]
+=======
+  }
+>>>>>>> b073ec96be1f2416e75669859a540d7fb0316529
 }
