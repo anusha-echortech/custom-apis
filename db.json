@@ -30,5 +30,24 @@
   ],
   "profile": {
     "name": "Anusha"
-  }
+  },
+  "abcd": [
+    {
+      "id": 1,
+      "title": "Post",
+      "author": "AnushaUpdated"
+    },
+    {
+      "id": "2",
+      "title": "mini task",
+      "author": "jsonserver"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "title": "mini task",
+      "author": "Anusha"
+    }
+  ]
 }
